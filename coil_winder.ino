@@ -273,6 +273,7 @@ void step() {
 
     // and reset counter value
     revolutions = 0;
+    stepper1CurrentPosition = 0;
   }
 }
 
